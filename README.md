@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Parkxit
-- 👀 I’m interested in coding precisely in data structures and algorithms and also in problem solving.
-- 🌱 I’m currently learning computer languages such as c++,java.
+- 👀 I’m interested in developing precisely in data structures and algorithms and also in problem solving and JAVA.
+- 🌱 I’m currently learning computer languages such as c++,java and web development.
 - 💞️ I’m looking to collaborate on new and challenging projects .
 - 📫 How to reach me ...email id: parkxitdaivadnya09@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: A Visionary with Specs and I can C you!
+- ⚡ Fun fact: A Visionary with Specs but I can 'C' you!
 
 <!---
 Parkxit/Parkxit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
