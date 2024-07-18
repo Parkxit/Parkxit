@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parkxit
 - 👀 I’m interested in developing precisely in data structures and algorithms and also in problem solving and JAVA.
-- 🌱 I’m currently learning computer languages such as c++,java and web development.
+- 🌱 I’m currently learning computer languages such as c++,java,HTML,JS and CSS.
 - 💞️ I’m looking to collaborate on new and challenging projects .
 - 📫 How to reach me ...email id: parkxitdaivadnya09@gmail.com
 - 😄 Pronouns: He/him
